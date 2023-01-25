@@ -447,11 +447,12 @@ form {
 #comment {
     background-color: #e07414;
     width: 400px;
-    height: 270px;
-    padding: 0 auto;
+    height: auto;
+    padding: 20px;
     margin-top: 30px;
     justify-content: center;
     font-family: 'Kdam Thmor Pro', sans-serif;
+    border-radius: 5px;
  
 }
 
